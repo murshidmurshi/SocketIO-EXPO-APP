@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NativeSocket",
+    "slug": "NativeSocket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NativeSocket"
+}

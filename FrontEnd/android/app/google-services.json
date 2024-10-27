@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637753025534",
+    "project_id": "chat-app-ff53b",
+    "storage_bucket": "chat-app-ff53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637753025534:android:77058e968e481d3acc16af",
+        "android_client_info": {
+          "package_name": "com.nativesocket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNPSC_4L-1oelkGGSpMf90saQFv3EMsLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
